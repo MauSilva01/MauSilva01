@@ -1,12 +1,12 @@
 ## Olá! Eu sou o Mauricio Alves Da Silva 👋
 
 - 🌱 Atualmente Cursando ADS (Análise e Desenvolvimento de Sistemas)
-- 👯 
-- 🤔 
-- 💬 
-- 📫
-- 😄 
-- ⚡ 
+- 👯 Experiência com automação de processos
+- 🤔 Desenvolvimento de agentes de IA
+- 💬 Integração de sistemas e APIs
+- 📫 Projetos reais (backend + mobile + scraping)
+  
+- 💼 Aberto a oportunidades de estágio ou júnior
 
 
 <div style="display: flex; gap: 60px;">
