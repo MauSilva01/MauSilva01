@@ -17,7 +17,8 @@
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg">
-   <img height="40" src="https://github.com/user-attachments/assets/bbda8aa3-9149-444c-967d-8135e33a5f60" />
+  <img height="40" src="https://github.com/user-attachments/assets/bbda8aa3-9149-444c-967d-8135e33a5f60" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg">
 </div>
 
 ##
