@@ -6,7 +6,7 @@
 - 💬 Integração de sistemas e APIs
 - 📫 Salesforce Marketing Cloud (CRM Analyst)
   
-- 💼 Aberto a oportunidades!!
+- 💼 Disponível para novas oportunidades profissionais!
 
 
 <div style="display: flex; gap: 60px;">
