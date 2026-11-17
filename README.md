@@ -4,7 +4,7 @@
 - 👯 Experiência com automação de processos
 - 🤔 Desenvolvimento de agentes de IA
 - 💬 Integração de sistemas e APIs
-- 📫 Projetos reais (backend + mobile + scraping)
+- 📫 Salesforce Marketing Cloud (CRM Analyst)
   
 - 💼 Aberto a oportunidades de estágio ou júnior
 
